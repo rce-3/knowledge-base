@@ -1,18 +1,42 @@
-# Quartz v4
+# RCE3 Knowledge Database
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+This is [RCE3](https://rce3.org)'s knowledge database, a personal knowledge management system built with [Quartz](https://quartz.jzhao.xyz/).
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+Here you will find notes, research and experiments related to RCE3 missions, as well as other topics of interest. You may find topics such as :
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+- Operating systems
+- Computer networks and infrastructure
+- Cryptography
+- Reverse engineering
+- Vulnerability exploitation
+- Hardware, embedded systems, and IoT
+- Forensics
+- Blockchain technologies
+- Programming and compilation
+- Software development and architecture
+- Artificial intelligence and machine learning
+- Web technologies and security
+- Cloud computing and virtualization
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+but not limited to these. The knowledge database is a work in progress, and new topics will be added over time.
 
-## Sponsors
+## Architecture
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+...
+
+## Contributing
+
+We welcome contributions to the RCE3 Knowledge Database! If you have notes, research, or experiments related to RCE3 missions or other topics of interest, please consider sharing them.
+
+To contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your contribution.
+3. Make your changes and commit them.
+4. Submit a pull request.
+
+## License
+
+All folders except `content` are licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+The `content` folder is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
