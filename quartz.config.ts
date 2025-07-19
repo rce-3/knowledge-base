@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "RCE3 Knowledge Database",
+    pageTitle: "RCE3 Knowledge Base",
     pageTitleSuffix: "this is a suffix",
     enableSPA: true,
     enablePopovers: true,

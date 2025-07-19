@@ -1,7 +1,7 @@
 ---
-title: RCE3 Knowledge Database
+title: RCE3 Knowledge Base
 aliases:
   - Home
-description: Welcome to the RCE3 Knowledge Database, the community repository of RCE3-related knowledge and research.
+description: Welcome to the RCE3 Knowledge Base, the community repository of RCE3-related knowledge and research.
 ---
 

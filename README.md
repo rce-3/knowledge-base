@@ -1,6 +1,6 @@
-# RCE3 Knowledge Database
+# RCE3 Knowledge Base
 
-This is [RCE3](https://rce3.org)'s knowledge database, a personal knowledge management system built with [Quartz](https://quartz.jzhao.xyz/).
+This is [RCE3](https://rce3.org)'s knowledge Base, a personal knowledge management system built with [Quartz](https://quartz.jzhao.xyz/).
 
 Here you will find notes, research and experiments related to RCE3 missions, as well as other topics of interest. You may find topics such as :
 
@@ -18,7 +18,7 @@ Here you will find notes, research and experiments related to RCE3 missions, as 
 - Web technologies and security
 - Cloud computing and virtualization
 
-but not limited to these. The knowledge database is a work in progress, and new topics will be added over time.
+but not limited to these. The knowledge base is a work in progress, and new topics will be added over time.
 
 ## Architecture
 
@@ -26,7 +26,7 @@ but not limited to these. The knowledge database is a work in progress, and new 
 
 ## Contributing
 
-We welcome contributions to the RCE3 Knowledge Database! If you have notes, research, or experiments related to RCE3 missions or other topics of interest, please consider sharing them.
+We welcome contributions to the RCE3 Knowledge Base! If you have notes, research, or experiments related to RCE3 missions or other topics of interest, please consider sharing them.
 
 To contribute, please follow these steps:
 
