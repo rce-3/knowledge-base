@@ -9,21 +9,21 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "RCE3 Knowledge Base",
-    pageTitleSuffix: "this is a suffix",
+    pageTitleSuffix: "R&D vault",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "data.rce3.org",
+    baseUrl: "kb.rce3.org",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Lexend",
+        body: "Roboto",
+        code: "Fira Code",
       },
       colors: {
         lightMode: {
@@ -35,7 +35,7 @@ const config: QuartzConfig = {
           secondary: "#375745",
           tertiary: "#131C17",
           highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "##37574588",
+          textHighlight: "#37574588",
         },
         darkMode: {
           light: "#060F11",
@@ -64,7 +64,7 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+      Plugin.ObsidianFlavoredMarkdown(),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
@@ -86,8 +86,8 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      // Commented out to speed up build time
+      // Plugin.CustomOgImages(),
     ],
   },
 }
